@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start-story": "ladle serve"
   },
   "dependencies": {
     "@arco-design/web-react": "^2.39.1",
