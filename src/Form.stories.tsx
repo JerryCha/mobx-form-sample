@@ -22,7 +22,7 @@ export const FormStory = () => {
           </Row>
         )}
       </Item>
-      <Item name="gender">
+      {/* <Item name="gender">
         {(value, onChange, _) => (
           <Row>
             <Radio.Group
@@ -35,7 +35,7 @@ export const FormStory = () => {
             />
           </Row>
         )}
-      </Item>
+      </Item> */}
     </Form>
   )
 }
